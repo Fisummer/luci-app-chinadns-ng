@@ -1,3 +1,3 @@
-# luci-app-chinadns
+# luci-app-chinadns-ng
 
-配合openwrt-chinadns使用
+配合openwrt-chinadns-ng使用
